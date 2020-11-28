@@ -122,7 +122,7 @@ All the translations for this repo will be listed below:
  * 📜 [What Every JavaScript Developer Should Know About Floating Point Numbers — Chewxy](https://blog.chewxy.com/2014/02/24/what-every-javascript-developer-should-know-about-floating-point-numbers/)
  * 📜 [The Secret Life of JavaScript Primitives — Angus Croll](https://javascriptweblog.wordpress.com/2010/09/27/the-secret-life-of-javascript-primitives/)
  * 📜 [Primitive Types — Flow](https://flow.org/en/docs/types/primitives/)
- * 📜 [(Not) Everything in JavaScript is an Object — Daniel Li](http://blog.brew.com.hk/not-everything-in-javascript-is-an-object/)
+ * 📜 [(Not) Everything in JavaScript is an Object — Daniel Li](https://dev.to/d4nyll/not-everything-in-javascript-is-an-object)
  * 📜 [JavaScript data types and data structures — MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Primitive_values)
  * 📜 [Diving Deeper in JavaScripts Objects — Arfat Salman](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
  * 📜 [The differences between Object.freeze() vs Const in JavaScript — Bolaji Ayodeji](https://medium.com/@bolajiayodeji/the-differences-between-object-freeze-vs-const-in-javascript-4eacea534d7c)
@@ -277,6 +277,7 @@ All the translations for this repo will be listed below:
  * 📜 [JavaScript Modules: A Beginner’s Guide — Preethi Kasireddy](https://medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc)
  * 📜 [Using JavaScript modules on the web](https://developers.google.com/web/fundamentals/primers/modules)
  * 📜 [JavaScript Modules: From IIFEs to CommonJS to ES6 Modules — Tyler McGinnis](https://medium.freecodecamp.org/javascript-modules-from-iifes-to-commonjs-to-es6-modules-4d10c16f55d4)
+ * 📜 [IIFE: Immediately Invoked Function Expressions — Parwinder](https://dev.to/bhagatparwinder/iife-immediately-invoked-function-expressions-49c5)
 
 ### Videos
 
@@ -464,6 +465,7 @@ All the translations for this repo will be listed below:
  * 📜 [A quick intro to 'this' in JavaScript — Natalie Smith](https://dev.to/thatgalnatalie/a-quick-intro-to-this-in-javascript-2mhp)
  * 📜 [Explaining JavaScript 'this' to my cat — Andrey K](https://dev.to/cat__logic/explaining-javascript-this-to-my-cat-1kig)
  * 📜 [A conversation with the 'this' keyword in Javascript — Karen Efereyan](https://dev.to/developerkaren/a-conversation-with-the-this-keyword-in-javascript-3j6g)
+ * 📜 [What are call(), apply() and bind() in JavaScript — Amitav Mishra](https://jscurious.com/what-are-call-apply-and-bind-in-javascript/)
 
   ### Videos
 
@@ -562,6 +564,7 @@ All the translations for this repo will be listed below:
  * 📜 [JavaScript: Object.assign() — Thiago S. Adriano](https://codeburst.io/javascript-object-assign-bc9696dcbb6e)
  * 📜 [How to deep clone a JavaScript Object — Flavio Copes](https://flaviocopes.com/how-to-clone-javascript-object/)
  * 📜 [Object Assignment vs. Primitive Assignment in JavaScript for Beginners — Nick Scialli](https://dev.to/nas5w/object-assignment-vs-primitive-assignment-in-javascript-for-beginners-2moi)
+ * 📜 [Object.create(): When and Why to Use — VZing](https://dev.to/vzing/object-create-when-and-why-to-use-20m9)
 
  ### Videos
 
@@ -910,9 +913,7 @@ All the translations for this repo will be listed below:
  * 📜 [All algorithms writing with JavaScript in the book 'Algorithms Fourth Edition'](https://github.com/barretlee/algorithms)
  * 📜 [Collection of classic computer science paradigms in JavaScript](https://github.com/nzakas/computer-science-in-javascript)
  * 📜 [All the things you didn't know you wanted to know about data structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures)
- * 📜 [JavaScript Data Structures: Singly Linked List: Setup — miku86](https://dev.to/miku86/javascript-data-structures-singly-linked-list-setup-4950)
- * 📜 [JavaScript Data Structures: Singly Linked List: Insert — miku86](https://dev.to/miku86/javascript-data-structures-singly-linked-list-insert-3in4)
- * 📜 [JavaScript Data Structures: Singly Linked List: Remove — miku86](https://dev.to/miku86/javascript-data-structures-singly-linked-list-remove-fai)
+ * 📜 [JavaScript Data Structures: 40 Part Series — miku86](https://dev.to/miku86/series/3259) 
  * 📜 [Data Structures: Understanding Graphs — Rachel Hawa](https://medium.com/javascript-in-plain-english/data-structures-understanding-graphs-82509d35e6b5)
  * 📜 [Data Structures Two Ways: Linked List (Pt 1) — Freddie Duffield](https://dev.to/freddieduffield/data-structures-two-ways-linked-list-2n61)
  * 📜 [Data Structures Two Ways: Linked List (Pt 2) — Freddie Duffield](https://dev.to/freddieduffield/data-structures-two-ways-linked-list-pt2-2i60)
@@ -1086,6 +1087,7 @@ All the translations for this repo will be listed below:
  * 📜 [Writing Clean Code - Dylan Paulus](https://dev.to/ganderzz/on-writing-clean-code-57cm)
  * 📜 [Writing Clean Code and The Practice of Programming - Nityesh Agarwal](https://dev.to/nityeshaga/writing-clean-code-and-the-practice-of-programming-actionable-advice-for-beginners-5f0k)
  * 📜 [Clean code, dirty code, human code - Daniel Irvine](https://dev.to/d_ir/clean-code-dirty-code-human-code-6nm)
+ * 📜 [Practical Ways to Write Better JavaScript - Ryland G](https://dev.to/taillogs/practical-ways-to-write-better-javascript-26d4)
 
 ### Videos
 *  🎥 [JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
